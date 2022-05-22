@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Reward
+  - Ground
+  - Obstacle
+  - Boundary
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Reward
+    uniqueID: 787165245
+    locked: 0
+  - name: dong
+    uniqueID: 2931929903
+    locked: 0
+  - name: CoudAndObstacle
+    uniqueID: 1402176803
+    locked: 0
+  - name: Canvas
+    uniqueID: 1830924149
+    locked: 0
